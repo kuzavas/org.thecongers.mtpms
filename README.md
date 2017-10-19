@@ -1,9 +1,13 @@
-# Motorcycle TPMS  
+# Motorcycle TPMS
+Motorcycle iTPMSystem Client Software  
 Author: Keith Conger <keith.conger@gmail.com>  
 http://development.thecongers.org/home/mtpms  
 License: GPLv2
 
-Motorcycle iTPMSystem Client Software
+
+## Download app
+[F-Droid](https://f-droid.org/packages/org.thecongers.mtpms/)  
+[Play store](https://play.google.com/store/apps/details?id=org.thecongers.mtpms)    
 
 ## Requires
 * An iTPMSystem (http://www.atbs.com.tw/product_TPMS_Module_E.htm)
